@@ -1,0 +1,9 @@
+{
+	"name": "gituser",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2c9bc93-7875-4f7b-865a-16653180b3b5",
+		"tenantId": "43ec486c-6703-4541-8c90-58d904f13dc3"
+	}
+}
